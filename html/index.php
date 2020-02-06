@@ -22,7 +22,6 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-  <!-- Add your site or application content here -->
   <img style="margin:auto" src="https://i.kym-cdn.com/entries/icons/original/000/006/306/FlipTable.jpg">
   <h1>fliptable.co.uk</h1>
   <script src="/js/vendor/modernizr-3.8.0.min.js"></script>
