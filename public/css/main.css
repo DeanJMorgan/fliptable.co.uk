@@ -16,6 +16,8 @@ html {
   font-family: sans-serif;
   font-size: 1em;
   line-height: 1.4;
+  margin: auto;
+  text-align: center;
 }
 
 /*
@@ -265,5 +267,5 @@ textarea {
 }
 
 img {
-  max-width: 100%;
+  max-width: 1080px;
 }

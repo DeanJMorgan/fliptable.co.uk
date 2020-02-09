@@ -22,8 +22,8 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
-  <img style="margin:auto" src="https://i.kym-cdn.com/entries/icons/original/000/006/306/FlipTable.jpg">
   <h1>fliptable.co.uk</h1>
+  <img src="https://i.kym-cdn.com/entries/icons/original/000/006/306/FlipTable.jpg">
   <script src="/js/vendor/modernizr-3.8.0.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
